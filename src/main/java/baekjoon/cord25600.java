@@ -1,3 +1,5 @@
+package baekjoon;
+
 import java.io.*;
 import java.util.*;
 public class cord25600 {

@@ -1,3 +1,5 @@
+package baekjoon;
+
 import java.util.Scanner;
 
 public class cord11720 {
